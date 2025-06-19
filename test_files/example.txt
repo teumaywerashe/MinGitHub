@@ -1,0 +1,2 @@
+This is a sample file for MiniGit.
+It will be hashed and stored as a blob.
